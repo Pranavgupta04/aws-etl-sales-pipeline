@@ -1,0 +1,9 @@
+order_id,order_date,customer_name,region,product,category,amount
+1,2024-01-01,Amit,North,Laptop,Electronics,50000
+2,2024-01-02,Rahul,West,Shirt,Clothing,2000
+3,2024-01-03,Sneha,South,Phone,Electronics,30000
+4,2024-01-04,Priya,East,Shoes,Footwear,4000
+5,2024-01-05,Arjun,North,Tablet,Electronics,20000
+6,2024-01-06,Neha,West,Jeans,Clothing,3000
+7,2024-01-07,Karan,South,Sandals,Footwear,1500
+8,2024-01-08,Riya,East,Laptop,Electronics,55000
